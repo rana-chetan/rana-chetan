@@ -42,7 +42,7 @@ Let’s connect and build something amazing together!
 ## 📫 Contact Me
 
 📧 Email: chetan.rana.it@gmail.com  
-🔗 LinkedIn: [https://www.linkedin.com/in/chetan-rana](https://www.linkedin.com/in/rana-chetan)  
+🔗 LinkedIn: [https://www.linkedin.com/in/rana-chetan](https://www.linkedin.com/in/rana-chetan)  
 🐙 GitHub: [https://github.com/rana-chetan](https://github.com/rana-chetan)
 
 ---
