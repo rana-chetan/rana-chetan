@@ -12,32 +12,84 @@
 
 Let’s connect and build something amazing together!
 
----
+## 🛠 Skills & Tools  
 
-## 🛠 Skills & Tools
+### 📂 Backend  
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/><br>
+        <sub>Java</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" height="60"/><br>
+        <sub>Spring Boot</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/><br>
+        <sub>MySQL</sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="60" height="60"/><br>
+        <sub>Hibernate</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachemaven/apachemaven-original.svg" width="60" height="60"/><br>
+        <sub>Maven</sub>
+      </td>
+    </tr>
+  </table>
+</p>
 
-### 📂 Backend
-• Java  
-• Spring Boot  
-• REST APIs  
-• MySQL  
-• Hibernate / JPA  
-• Maven  
+### 📂 Frontend  
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/><br>
+        <sub>React.js</sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/><br>
+        <sub>JavaScript</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/><br>
+        <sub>HTML5</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/><br>
+        <sub>CSS3</sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60"/><br>
+        <sub>Bootstrap</sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="60" height="60"/><br>
+        <sub>Material UI</sub>
+      </td>
+    </tr>
+  </table>
+</p>
 
-### 📂 Frontend
-• React.js  
-• JavaScript (ES6+)  
-• HTML5, CSS3  
-• Bootstrap / Material UI  
-• Axios for API calls  
+### 📂 Others  
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/><br>
+        <sub>Git</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60"/><br>
+        <sub>GitHub</sub>
+      </td>
+    </tr>
+  </table>
+</p>
 
-### 📂 Others
-• Git & GitHub  
-• Problem Solving & Debugging  
-• Agile Development  
-• Responsive Web Design
-
----
 
 ## 📫 Contact Me
 
