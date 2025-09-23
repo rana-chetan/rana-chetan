@@ -8,94 +8,33 @@
 
 🚀 I have successfully completed my internship in **Java Full Stack Engineering**, where I gained hands-on experience working on real projects and enhancing my skills.
 
-🤝 Always open to collaboration and new opportunities to grow in the tech world.
+🤝 Always open to collaboration and new opportunities to grow in the tech world.<br><br>
 
 Let’s connect and build something amazing together!
 
-## 🛠 Skills & Tools  
+---
+
+## ⚙️ Skills & Tools  
 
 ### 📂 Backend  
-<p align="center">
-  <table>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/><br>
-        <sub>Java</sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" height="60"/><br>
-        <sub>Spring Boot</sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/><br>
-        <sub>MySQL</sub>
-      </td>
-      <td align="center" width="110">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="60" height="60"/><br>
-        <sub>Hibernate</sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachemaven/apachemaven-original.svg" width="60" height="60"/><br>
-        <sub>Maven</sub>
-      </td>
-    </tr>
-  </table>
-</p>
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/><br><sub>Java</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" height="60"/><br><sub>Spring Boot</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/><br><sub>MySQL</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="60" height="60"/><br><sub>Hibernate</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="60" height="60"/><br><sub>Maven</sub> |
+|---|---|---|---|---|
 
 ### 📂 Frontend  
-<p align="center">
-  <table>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/><br>
-        <sub>React.js</sub>
-      </td>
-      <td align="center" width="110">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/><br>
-        <sub>JavaScript</sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/><br>
-        <sub>HTML5</sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/><br>
-        <sub>CSS3</sub>
-      </td>
-      <td align="center" width="110">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60"/><br>
-        <sub>Bootstrap</sub>
-      </td>
-      <td align="center" width="110">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="60" height="60"/><br>
-        <sub>Material UI</sub>
-      </td>
-    </tr>
-  </table>
-</p>
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/><br><sub>React.js</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/><br><sub>JavaScript</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/><br><sub>HTML5</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/><br><sub>CSS3</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60"/><br><sub>Bootstrap</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="60" height="60"/><br><sub>Material UI</sub> |
+|---|---|---|---|---|---|
 
 ### 📂 Others  
-<p align="center">
-  <table>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/><br>
-        <sub>Git</sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60"/><br>
-        <sub>GitHub</sub>
-      </td>
-    </tr>
-  </table>
-</p>
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/><br><sub>Git</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60"/><br><sub>GitHub</sub> |
+|---|---|
 
+---
 
 ## 📫 Contact Me
 
 📧 Email: chetan.rana.it@gmail.com  
-🔗 LinkedIn: [https://www.linkedin.com/in/rana-chetan](https://www.linkedin.com/in/rana-chetan)  
-🐙 GitHub: [https://github.com/rana-chetan](https://github.com/rana-chetan)
+🌐 LinkedIn: [https://www.linkedin.com/in/rana-chetan](https://www.linkedin.com/in/rana-chetan)  
+🗂️ GitHub: [https://github.com/rana-chetan](https://github.com/rana-chetan)
 
 ---
 
